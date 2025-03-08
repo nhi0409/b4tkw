@@ -1,0 +1,17 @@
+#link2{
+    font-size:40px;
+    color:red;
+}
+#link{
+    float:right;
+    color:green;
+}
+.link3{
+    background-color: rgb(236, 178, 72);
+}
+.link1{
+    background-image: url(https://cellphones.com.vn/sforum/wp-content/uploads/2022/05/20-4.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
